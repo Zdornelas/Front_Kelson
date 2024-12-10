@@ -2,36 +2,36 @@
 Arquitetura :
 
 site_uniesp_kelson/
-├── backend/
-│   ├── node_modules/
-│   ├── package.json
-│   ├── package-lock.json
-│   └── server.js (Back end)
-├── site/
-    ├── site_uniesp_2024_2/
-        ├── data/
-        ├── node_modules/
-        ├── public/ (Imagens)
-        ├── src/
-            ├── assets/
-            ├── components/
-            │   ├── BannerAd.jsx (Banner do site)
-            │   └── Navbar.jsx (Barra de navegação)
-            ├── pages/
-            │   ├── admin/
-            │   │   ├── AdminNoticias.jsx (pagina de administrar noticiais)
-            │   │   ├── CadastroNoticias.jsx (pagina de cadastrar noticiais)
-            │   │   └── EditarNoticias.jsx (pagina de editar noticiais)
-            │   │
-            │   ├── DpoLgpd.jsx (pagina do LGPD)
-            │   ├── Faculdade.jsx (pagina da faculdade)
-            │   ├── Inicial.jsx (pagina inicial)
-            │   ├── Noticias.jsx (visualizar todas as noticias)
-            │   └── VisualizaNoticia.jsx (pagina de visualizar uma a noticia)
-            ├── App.jsx (Cria os routes das paginas)
-            ├── App.css
-            ├── index.css
-            ├── main.jsx
+<br />├── backend/
+<br />│   ├── node_modules/
+<br />│   ├── package.json
+<br />│   ├── package-lock.json
+<br />│   └── server.js (Back end)
+<br />├── site/
+<br />    ├── site_uniesp_2024_2/
+ <br />       ├── data/
+ <br />       ├── node_modules/
+ <br />       ├── public/ (Imagens)
+  <br />      ├── src/
+  <br />          ├── assets/
+   <br />         ├── components/
+   <br />         │   ├── BannerAd.jsx (Banner do site)
+    <br />        │   └── Navbar.jsx (Barra de navegação)
+    <br />        ├── pages/
+     <br />       │   ├── admin/
+     <br />       │   │   ├── AdminNoticias.jsx (pagina de administrar noticiais)
+     <br />       │   │   ├── CadastroNoticias.jsx (pagina de cadastrar noticiais)
+     <br />       │   │   └── EditarNoticias.jsx (pagina de editar noticiais)
+     <br />       │   │
+      <br />      │   ├── DpoLgpd.jsx (pagina do LGPD)
+      <br />      │   ├── Faculdade.jsx (pagina da faculdade)
+     <br />       │   ├── Inicial.jsx (pagina inicial)
+      <br />      │   ├── Noticias.jsx (visualizar todas as noticias)
+        <br />    │   └── VisualizaNoticia.jsx (pagina de visualizar uma a noticia)
+       <br />     ├── App.jsx (Cria os routes das paginas)
+     <br />       ├── App.css
+      <br />      ├── index.css
+       <br />     ├── main.jsx
 **Bibliotecas**
 1. Express
 2. Cors
