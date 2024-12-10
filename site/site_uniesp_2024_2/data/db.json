@@ -1,0 +1,23 @@
+{
+    "noticias": [
+      {
+        "id": 1,
+        "titulo": "Novo curso de Medicina",
+        "texto": "Chegou o curso de Medicina na instituição! Agora, os alunos terão a oportunidade de se formar em uma das áreas mais requisitadas do mercado de trabalho.",
+        "img": "medicina.jfif"
+      },
+      {
+        "id": 2,
+        "titulo": "Parceria Internacional",
+        "texto": "A instituição firmou uma nova parceria com universidades europeias, oferecendo intercâmbios e programas de duplo diploma para seus alunos.",
+        "img": "internacional.jpg"
+      },
+      {
+        "id": 3,
+        "titulo": "Ampliação da Biblioteca",
+        "texto": "A biblioteca da instituição passou por uma grande reforma e agora conta com mais espaço, novos livros e ambientes de estudo modernos para os alunos.",
+        "img": "biblioteca.jpg"
+      }
+    ]
+  }
+  
